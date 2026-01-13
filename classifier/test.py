@@ -108,4 +108,4 @@ def analyze_image(image_path):
         
     print("="*40 + "\n")
 
-analyze_image(r"C:\Users\HP\Downloads\human_and_dog.jpeg")
+# analyze_image(r"Input_Image_Path")
